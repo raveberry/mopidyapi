@@ -4,9 +4,10 @@ build-backend = "flit.buildapi"
 
 [tool.flit.metadata]
 module = "mopidyapi"
+dist-name = "raveberry-mopidyapi"
 author = "Asbjørn Olling"
 author-email = "asbjornolling@gmail.com"
-home-page = "https://github.com/AsbjornOlling/mopidyapi"
+home-page = "https://github.com/raveberry/mopidyapi"
 classifiers = [
     "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
 		"Development Status :: 4 - Beta",
